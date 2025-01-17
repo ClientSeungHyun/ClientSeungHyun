@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClientSeungHyun&count_private=true&show_icons=true&theme=nightowl)
 
-<a href="https://github.com/ClientSeungHyun/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHyunJeong&count_private=true&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&token=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" /></a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClientSeungHyun)](https://github.com/anuraghazra/github-readme-stats)
 
  
 ## 📞How to Contact SeongHyun Jeong? 📞
