@@ -1,11 +1,11 @@
 <div align="left">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=10&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SeongHyun's+GitHub!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=10&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SeungHyun's+GitHub!👋)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=300&size=20&duration=3500&pause=10&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=I'm+Game+Client+Developer!)](https://git.io/typing-svg)
 
 -------
 
-<a href="https://github.com/ClientSeungHyun/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SeungHyunJeong&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff&token=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" alt="SeongHyun's GitHub stats" /></a>
+<a href="https://github.com/ClientSeungHyun/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SeungHyunJeong&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff&token=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" alt="SeungHyun's GitHub stats" /></a>
 
 <a href="https://github.com/ClientSeungHyun/"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHyunJeong&count_private=true&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&token=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" /></a> 
 
